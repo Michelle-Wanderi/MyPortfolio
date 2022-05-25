@@ -5,7 +5,16 @@ h3{
 }
 p{
     text-align: justify;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 body{
     background-color: orange;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+     border-radius: 50%;
+
 }
